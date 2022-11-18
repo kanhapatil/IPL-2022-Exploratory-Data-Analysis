@@ -1,0 +1,5 @@
+streamlit
+plotly
+seaborn
+matplotlib
+import streamlit_option_menu
